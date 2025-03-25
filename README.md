@@ -6,4 +6,5 @@ This project implements two neural network models to perform sentiment analysis 
 The goal is to predict the review rating (1–5 stars) given the text.
 
 How to run:
+
 python ffnn.py --hidden_dim [hparam] --epochs [hparam] --train_data [train data path] --val_data [val data path]
